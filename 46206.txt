@@ -1,6 +1,16 @@
-<!DOCTYPEhtml>
-
+<!DOCTYPE html>
+<h1>
+<title>
+Ford Manual (1919)
+</title>
+</h1>
+<body>
+<p>
+<strong><h2>
 The Project Gutenberg EBook of Ford Manual (1919), by Ford Motor Company
+</h2>
+</strong>
+</p>
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -82,17 +92,18 @@ by The Internet Archive)
 
 [Illustration: Ford The Universal Car]
 
-                            FORD MANUAL
-
+<h3> <p> <strong>
+FORD MANUAL </h3> </strong> </p>
+<p><strong>
                      For Owners and Operators
                       of Ford Cars and Trucks
-
-
-                         Copyrighted 1919
+</p></strong>
+<p>
+                       <em>  Copyrighted 1919
                                _by_
                         Ford Motor Company
                         All rights reserved
-
+</em> </p>
 
                           _Published by_
                         FORD MOTOR COMPANY
@@ -101,7 +112,7 @@ by The Internet Archive)
 
 
 
- Foreword
+ <p><ul>Foreword</ul></p>
 
 
  It is a significant fact that nearly all Ford cars are driven by
@@ -137,7 +148,7 @@ by The Internet Archive)
  adjustments--this book is published.
 
 
- Important
+ <p> <ul> Important </p> </ul>
 
  _It is most important that owners of Ford cars shall insist upon
  getting the genuine Ford-made materials, or "Parts," when having
@@ -150,11 +161,11 @@ by The Internet Archive)
 
 
 
- The Car and Its Operation
+<p> <ul> The Car and Its Operation </p> </ul>
 
-
- _What must be done before starting the Car?_         _Answer No. 1_
-
+<p> <em>
+<ol> <li1>_What must be done before starting the Car?_         _Answer No. 1_
+</em> </p> 
  Before trying to start the car, fill the radiator (by removing cap
  at top) with clean fresh water. If perfectly clean water cannot
  be obtained it is advisable to strain it through muslin or other
@@ -173,9 +184,9 @@ by The Internet Archive)
  superior to hard water, which may contain alkalies and other salts
  which tend to deposit sediment and clog the radiator. (See chapter
  on Cooling System.)
+</p>
 
-
- _What about Gasoline?_                               _Answer No. 2_
+<p> <em><li2>_What about Gasoline?_ </li2> </em> </p>                             _Answer No. 2_
 
  The ten-gallon gasoline tank should be filled--nearly full--and
  the supply should never be allowed to get low. When filling the
@@ -190,7 +201,7 @@ by The Internet Archive)
  sediment bulb at the bottom.
 
 
- _How about the Oiling System?_                      _Answer No. 3_
+ <p> <em> <li3>How about the Oiling System?_                      _Answer No. 3_</li3> </p> </em>
 
  Upon receipt of the car see that a supply of medium light,
  high-grade gas engine oil is poured into the crank case through
@@ -208,7 +219,7 @@ by The Internet Archive)
  No. 18, also chapter on Lubrication.)
 
 
- _How are Spark and Throttle Levers used?_           _Answer No. 4_
+ <p><em><li4>_How are Spark and Throttle Levers used?_           _Answer No. 4_ </li4> </p> </em>
 
 Under the steering wheel are two small levers. The right-hand
 (throttle) lever controls the amount of mixture (gasoline and air)
@@ -226,8 +237,8 @@ knock will be noticed in the engine. (See chapter on Ignition.)
  with the teeth of the gear case and center pinion. (Cut No. 1)]
 
 
- _Where should these levers be when starting the Engine?_
-                                                      _Answer No. 5_
+ <p><em><li5>_Where should these levers be when starting the Engine?_
+                                                      _Answer No. 5_</p> </li5> </em>
 
  The spark lever should usually be put in about the third or fourth
  notch of the quadrant (the notched half-circle on which the levers
@@ -238,8 +249,8 @@ knock will be noticed in the engine. (See chapter on Ignition.)
  kick."
 
 
- _What else is necessary before starting the Engine?_ _Answer No. 6_
-
+ <p><em><li6>_What else is necessary before starting the Engine?_ _Answer No. 6_
+</p></li6></em>
  First, see that the hand lever, which comes up through the floor
  of the car at the left of the driver, is pulled back as far as it
  will go. The lever in this position holds the clutch in neutral
@@ -251,9 +262,9 @@ knock will be noticed in the engine. (See chapter on Ignition.)
  until it is on--and the throwing off of this switch stops the
  engine.
 
-
+<p><em><li7>
  _How is the Engine started?_                         _Answer No. 7_
-
+</p></em></li7>
  If the car is not equipped with a starter the engine is started
  by the lifting of the starting crank at the front of the car.
  Take hold of the handle and push firmly toward the car till you
@@ -292,10 +303,10 @@ knock will be noticed in the engine. (See chapter on Ignition.)
  located on the instrument board. In order to avoid flooding the
  engine with an over rich mixture of gas, the priming rod should
  only be held out for a few seconds at a time.
-
+<p><em><li8>
 
  _How is the Engine best started in cold weather?_    _Answer No. 8_
-
+</p></em></li8>
  As gasoline does not vaporize readily in cold weather it is
  naturally more difficult to start the motor under such conditions.
  The usual method of starting the engine when cold is to turn
@@ -331,3 +342,6 @@ knock will be noticed in the engine. (See chapter on Ignition.)
  If the motor is stopped in this way and then started when hot,
  starting is apt to be difficult on account of the surplus gasoline
  in the carburetor.
+ </body>
+</html>
+
